@@ -12,5 +12,5 @@
 ## 📌 Featured Projects
 - [Windows Fix Scripts](https://github.com/tiagoroque3/Windows-Fix-Scripts)
 - [MS Store Installer](https://github.com/tiagoroque3/MSStore-URL-Installer)
-- [Trailblaze](link)
-- [Trailblaze Mobile](link)
+- [Trailblaze](https://github.com/tiagoroque3/Trailblaze-Platform)
+- [Trailblaze Mobile](https://github.com/tiagoroque3/Trailblaze-Mobile)
