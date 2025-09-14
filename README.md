@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Tiago Roque
 
-<!--
-**tiagoroque3/tiagoroque3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc in Computer Science and Engineering @ NOVA FCT (2025)  
+💻 Interested in software engineering, DevOps, automation, and cloud.  
+🚀 Currently seeking junior roles or internships in Portugal.  
 
-Here are some ideas to get you started:
+## 🔧 Tech stack
+- Languages: Java, Python, PowerShell, Batch, Dart (Flutter)
+- Tools: Git, Docker, Maven, Google Cloud
+- Areas: Windows automation, Web backends, Mobile apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Featured Projects
+- [Windows Fix Scripts](https://github.com/tiagoroque3/Windows-Fix-Scripts)
+- [MS Store Installer](https://github.com/tiagoroque3/MSStore-URL-Installer)
+- [Trailblaze](link)
+- [Trailblaze Mobile](link)
