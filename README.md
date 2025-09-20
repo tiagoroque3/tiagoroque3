@@ -10,10 +10,11 @@
 - Areas: Windows automation, Web backends, Mobile apps
 
 ## 📌 Featured Projects
+- [RealWorld QA Automation](https://github.com/tiagoroque3/realworld-qa-automation)
 - [Windows Fix Scripts (Python)](https://github.com/tiagoroque3/Windows-Fix-Scripts-Python)  
 - [Windows Fix Scripts](https://github.com/tiagoroque3/Windows-Fix-Scripts)  
 - [MS Store Installer](https://github.com/tiagoroque3/MSStore-URL-Installer)  
 - [Trailblaze](https://github.com/tiagoroque3/Trailblaze-Platform)  
 - [Trailblaze Mobile](https://github.com/tiagoroque3/Trailblaze-Mobile)  
-- [RealWorld QA Automation](https://github.com/tiagoroque3/realworld-qa-automation) — End-to-end QA automation for the RealWorld spec showing Web + API testing.
+
 
